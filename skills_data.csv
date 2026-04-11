@@ -1,0 +1,2 @@
+job_id,date,title,Python_binary,SQL_binary,Machine_Learning_binary,Deep_Learning_binary,NLP_binary,LLMs_binary,PyTorch_binary,TensorFlow_binary,Spark_binary,Docker_binary,Cloud_binary,Statistics_binary,dbt_binary,Tableau_binary,Power_BI_binary,Python_score,SQL_score,Machine_Learning_score,Deep_Learning_score,NLP_score,LLMs_score,PyTorch_score,TensorFlow_score,Spark_score,Docker_score,Cloud_score,Statistics_score,dbt_score,Tableau_score,Power_BI_score
+1131075,2026-04-11,Operations Engineer Kuala Lumpur,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,1,1,1,1
