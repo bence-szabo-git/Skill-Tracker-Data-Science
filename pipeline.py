@@ -66,8 +66,9 @@ def transform_jobs(jobs):
         description = job.get("description", "") or ""
         cleaned_description = clean_text(description)
         text = f"{title}. {cleaned_description}".strip()
+        url = job.get("url", "") or ""
 
-        records.append({"job_id": job_id, "date": today, "title": title, "text": text})
+        records.append({"job_id": job_id, "date": today, "title": title, "text": text, "url": url})
 
     return records
 
@@ -76,7 +77,7 @@ def save_jobs(records):
     if not records:
         return 0, 0
 
-    new_df = pd.DataFrame(records, columns=["job_id", "date", "title", "text"])
+    new_df = pd.DataFrame(records, columns=["job_id", "date", "title", "text", "url"])
     if os.path.exists(CSV_FILE):
         existing_df = pd.read_csv(CSV_FILE, dtype=str)
         existing_ids = set(existing_df["job_id"].fillna("").astype(str))

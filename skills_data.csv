@@ -1,2 +1,36 @@
 job_id,date,title,Python_binary,SQL_binary,Machine_Learning_binary,Deep_Learning_binary,NLP_binary,LLMs_binary,PyTorch_binary,TensorFlow_binary,Spark_binary,Docker_binary,Cloud_binary,Statistics_binary,dbt_binary,Tableau_binary,Power_BI_binary,Python_score,SQL_score,Machine_Learning_score,Deep_Learning_score,NLP_score,LLMs_score,PyTorch_score,TensorFlow_score,Spark_score,Docker_score,Cloud_score,Statistics_score,dbt_score,Tableau_score,Power_BI_score
-1131075,2026-04-11,Operations Engineer Kuala Lumpur,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,1,1,1,1
+1131083,2026-04-12,Senior IAM Engineer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131082,2026-04-12,Machine Learning Engineer,1,0,1,1,0,0,1,1,0,0,1,1,0,0,0,1,0,1,1,0,0,1,1,0,0,1,1,0,0,0
+1131081,2026-04-12,Senior Engineer Platform Devops,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1131075,2026-04-12,Operations Engineer Kuala Lumpur,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131072,2026-04-12,Xsolla Senior Full stack Engineer,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+1131069,2026-04-12,Cyber Security Analyst,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131067,2026-04-12,Senior FinCrime Support Analyst,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1131066,2026-04-12,Staff Software Engineer Full Stack,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131063,2026-04-12,Power Systems Engineer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131059,2026-04-12,Senior UX Researcher & Analyst,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131058,2026-04-12,Front End Engineer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131054,2026-04-12,Senior Security Infrastructure Engineer,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1131043,2026-04-12,Senior Client Data &amp; Analytics Lead,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131041,2026-04-12,Senior Emulation Engineer,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131040,2026-04-12,Mixed Signal IC Layout Design Engineer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131038,2026-04-12,Lead Instructor Applied AI Engineering Summer 2026,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131034,2026-04-12,Senior Data Engineer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131031,2026-04-12,Senior Backend Engineer MS050KA,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131030,2026-04-12,Intermediate Gameplay Software Engineer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131028,2026-04-12,Staff Engineer Digital Lending,1,1,0,0,1,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,0
+1131023,2026-04-12,Staff Software Engineer CRM LATAM,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+1131017,2026-04-12,Product Manager Data Management &amp; Platform,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1131012,2026-04-12,Fraud Waste and Abuse Data Analyst,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1130997,2026-04-12,RevOps AI Analyst Intern,0,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1130994,2026-04-12,Associate Forward Deployed Engineer,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1130993,2026-04-12,Senior Site Civil Engineer Land Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1130991,2026-04-12,Legal Counsel AI Trainer Freelance 8 20 hrs week,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1130983,2026-04-12,Senior Strategist Future of Work & AI Readiness,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1130981,2026-04-12,Senior Backend Engineer HyperDX,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1130979,2026-04-12,Intermediate Full Stack Engineer,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1130978,2026-04-12,Senior Full Stack Engineer,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1130970,2026-04-12,Forward deployed Engineer LatAm,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1130967,2026-04-12,Senior Software Engineer,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+1130961,2026-04-12,Junior Crypto Analyst & Trader,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1130960,2026-04-12,Trading Technology Engineer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

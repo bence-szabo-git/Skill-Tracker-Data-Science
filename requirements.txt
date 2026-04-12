@@ -1,4 +1,5 @@
-requests
+spacy
 pandas
-transformers
-torch
+requests
+streamlit
+plotly
