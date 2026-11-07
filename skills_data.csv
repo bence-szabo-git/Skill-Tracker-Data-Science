@@ -484,3 +484,6 @@ job_id,date,title,Python_binary,SQL_binary,Machine_Learning_binary,Deep_Learning
 1137687,2026-11-06,Senior Staff Infrastructure & Security Engineer,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 1137686,2026-11-06,AI Content Reviewer Video Annotation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1137685,2026-11-06,Software Engineer,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1137691,2026-11-07,Feltsense AI Engineer,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+1137690,2026-11-07,Operations Expert with Python for AI Supply Chain Task Design,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1137689,2026-11-07,ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM),1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0
